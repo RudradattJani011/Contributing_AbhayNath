@@ -35,10 +35,10 @@ You accept and agree to the following terms and conditions for Your present and 
    - Grant the license to the Projects as described above.
 
    Signed:
-   [Your Full Legal Name]
+   Rudradatt Jani
 
    Date:
-   [Date of Signing]
+   31-07-2023
 
 Please print, sign, and scan this CLA, then email it to 21dit040@charusat.edu.in. If you are submitting your contribution through a version control system, please include a statement in your commit message indicating that you have read and accepted the terms of this CLA.
 
